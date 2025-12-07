@@ -73,7 +73,7 @@ These lessons form the backbone of any programmer’s toolkit. Mastering them is
 
 ### 🌱 My Learning Journey
 
-If you’re interested in my story, reflections, and the challenges I faced along the way, please check out the project’s [Wiki page](Wiki_Link).  
+If you’re interested in my story, reflections, and the challenges I faced along the way, please check out the project’s [Wiki page]([Wiki_Link](https://github.com/jumana14jumana44-create/-A-weak-start-and-impressive-results/wiki)).  
 Every step, lesson, and mistake is documented as part of my growth and commitment to continuous learning.
 
 Thank you for visiting—your feedback and support mean a lot on this journey to mastering Python and pursuing an AI Engineering scholarship!
